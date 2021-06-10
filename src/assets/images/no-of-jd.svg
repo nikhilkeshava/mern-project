@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.272" height="78.114" viewBox="0 0 56.272 78.114">
+  <g id="Group_484" data-name="Group 484" transform="translate(-191.519 -651.5)">
+    <path id="Path_1241" data-name="Path 1241" d="M54.136,922.73H99.885a3.777,3.777,0,0,1,3.766,3.766v67.592a3.756,3.756,0,0,1-3.756,3.756H62.743L50.38,985.439V926.486A3.756,3.756,0,0,1,54.136,922.73Z" transform="translate(142.639 -269.73)" fill="rgba(0,0,0,0)" stroke="#04724d" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_1242" data-name="Path 1242" d="M50,981.56H62.2a1.192,1.192,0,0,1,1.192,1.266l-.628,11.161" transform="translate(142.615 -265.968)" fill="none" stroke="#04724d" stroke-width="3"/>
+    <g id="Group_472" data-name="Group 472" transform="translate(207.047 660.395)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M67.625,943.295H65.5a2.883,2.883,0,0,1-2.617-2.128V934.4H88.468v6.384a2.831,2.831,0,0,1-1.415,2.128l-8.448.213V941a.542.542,0,0,0-.532-.532H73.647a.542.542,0,0,0-.532.532v2.309Z" transform="translate(-62.88 -929.378)" fill="none" stroke="#04724d" stroke-width="3"/>
+      <path id="Path_1245" data-name="Path 1245" d="M64.3,945.27v6.1H86.962v-6.075" transform="translate(-62.789 -928.683)" fill="none" stroke="#04724d" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_1246" data-name="Path 1246" d="M70.9,934.468V929.68h8.863v4.937" transform="translate(-62.367 -929.68)" fill="none" stroke="#04724d" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Group_483" data-name="Group 483" transform="translate(205.171 693.336)">
+      <path id="Icon_awesome-list-ul" data-name="Icon awesome-list-ul" d="M62.364,959.49a1.408,1.408,0,1,0,1.465,1.4h0a1.439,1.439,0,0,0-1.465-1.4Z" transform="translate(-61.014 -959.49)" fill="#04724d"/>
+      <path id="Icon_awesome-list-ul-2" data-name="Icon awesome-list-ul" d="M62.364,959.49a1.408,1.408,0,1,0,1.465,1.4h0a1.439,1.439,0,0,0-1.465-1.4Z" transform="translate(-61.014 -953.861)" fill="#04724d"/>
+      <path id="Icon_awesome-list-ul-3" data-name="Icon awesome-list-ul" d="M62.364,959.49a1.408,1.408,0,1,0,1.465,1.4h0a1.439,1.439,0,0,0-1.465-1.4Z" transform="translate(-61.014 -948.233)" fill="#04724d"/>
+      <path id="Path_1241-2" data-name="Path 1241" d="M1903.847,9020.283H1927.3" transform="translate(-1898.445 -9018.876)" fill="none" stroke="#04724d" stroke-linecap="round" stroke-width="2.5"/>
+      <path id="Path_1242-2" data-name="Path 1242" d="M1903.847,9020.283H1927.3" transform="translate(-1898.445 -9013.248)" fill="none" stroke="#04724d" stroke-linecap="round" stroke-width="2.5"/>
+      <path id="Path_1243" data-name="Path 1243" d="M1903.847,9020.283H1927.3" transform="translate(-1898.445 -9007.619)" fill="none" stroke="#04724d" stroke-linecap="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>
