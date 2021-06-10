@@ -1,0 +1,51 @@
+.holiday-table .MuiTableHead-root .MuiTableCell-alignLeft {
+    text-align: left !important;
+}
+
+.holiday-table .MuiTableRow-root .MuiTableCell-alignLeft {
+    text-align: left !important;
+}
+
+.holiday-table .Component-paginationSelectRoot-4{
+    display: none !important;
+}
+
+.holiday-table .MuiTableFooter-root{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.MTablePaginationInner-root-14:nth-child(4){
+    display: none ;
+}
+
+
+
+ .holiday-table .MuiTypography-root h6{
+    font-weight: 600px !important;
+}
+
+ .MuiTableSortLabel-root {
+    font-size: 18px !important;
+}
+
+.MuiTableRow-head {
+    background-color: green !important;
+}
+
+.holiday-table .MTableToolbar-root-5{
+    background-color: darkslategrey !important;
+    color: white !important;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.holiday-table .MuiPaper-rounded{
+    border-radius: 15px !important;
+}
+
+.MuiTableBody-root {
+    
+    background: #F4F9F5 !important;
+}

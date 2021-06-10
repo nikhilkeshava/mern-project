@@ -1,0 +1,25 @@
+@import '../scss/base.scss';
+
+.mainPage {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#content {
+  width: 100%;
+  min-height: 100vh;
+  transition: all 0.6s;
+  position: relative;
+  background: #F4F9F5;
+}
+
+#content-toggle {
+  min-height: 100vh;
+  transition: all 0.6s;
+  position: relative;
+  background: #F4F9F5;
+}
+#login {
+  width: 100%;
+  background: #F4F9F5;
+}

@@ -1,0 +1,133 @@
+.pagination {
+  margin: 44px 25px 5px auto;
+  display: flex;
+  list-style: none;
+  outline: none;
+}
+.pagination > .active > a {
+  background-color: darkslategrey;
+  /* border-radius: 50%; */
+  border-color: #121732;
+  color: #ffffff;
+}
+
+.pagination > li {
+  margin: 7px 10px;
+}
+.pagination > li > a {
+  /* border: 1px solid #47ccde; */
+  padding: 5px 12px;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.previous {
+  display: none;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  /* background-color: #47ccde ; */
+  /* border-color: #47ccde; */
+  outline: none;
+  color:#ffffff !important;
+}
+.pagination > li > a,
+.pagination > li > span {
+  color: #0e0e0e;
+}
+.pagination > li:first-child > a,
+.pagination > li:first-child > span,
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+  border-radius: unset;
+}
+
+.pagination > li:last-child {
+  background-color: none;
+  border-radius: 0;
+  padding: 0px;
+  margin-right: 0px;
+}
+
+.pagination-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.ReactTable {
+  border: none;
+}
+
+.ReactTable .rt-thead .rt-tr {
+  color: #ffffff;
+  border-radius: 10px 10px 0 0;
+  background:darkslategrey;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.ReactTable .rt-thead.-header {
+  box-shadow: none;
+
+  /* margin-bottom: 10px; */
+}
+
+.ReactTable .rt-thead .rt-th,
+.ReactTable .rt-thead .rt-td {
+  border-right: none;
+  /* margin-bottom: 10px; */
+}
+
+ .ReactTable .rt-tbody .rt-td{
+  border-right: 1px solid  #36363659;
+} 
+
+.ReactTable .rt-tbody .rt-tr-group {
+ 
+  border: 1px solid #36363659;
+  border-bottom: none;
+  /* margin-bottom: 15px;
+  border-radius: 12px;  */
+  /* padding: 5px 0px; */
+}
+
+.ReactTable .rt-th,
+.ReactTable .rt-td {
+  text-align: center;
+}
+
+.ReactTable .rt-tbody .rt-tr-group:last-child {
+ /* border-style: none; */
+  border: 1px solid #36363659;
+  border-radius: 0 0 10px 10px;
+}
+
+.Next-button {
+  background-color: #f4f9f5;
+}
+.Next-button .MuiButton-contained {
+  background-color: darkslategrey;
+  color: #ffffff;
+  padding: 0px;
+  width: 120px;
+  border-radius: 35px;
+  font-size: 20px;
+  text-transform: none;
+  padding: 8px 5px;
+}
+
+.Next-button .MuiButton-contained:hover {
+  background-color: darkslategrey;
+}
+
+.arrow-icon {
+  margin-left: 15px;
+}
+
+

@@ -1,0 +1,145 @@
+
+
+.atn-header
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size:16px;
+  margin-top: 10px;
+
+}
+.atn-leave
+{
+
+  font-size:24px;
+  padding-right: 5px;
+}
+
+.atn-leave-1
+{
+  font-size:24px;
+  padding-right: 5px;
+
+}
+.atn-leave-style
+{
+  color:darkslategrey;
+  font-size:24px;
+  padding-right: 15px;
+}
+
+.atn-leave-style-1
+{
+  color:darkslategrey;
+  font-size: 14px;
+  font-size:24px;
+}
+
+
+.atn-header-1
+{
+  color: #4BBBDE;
+  padding-top:20px;
+  padding-left:20px;
+  display:flex;
+  justify-content: center;
+}
+
+.atn-mail
+{
+  margin: 40px 80px;
+ 
+}
+
+.desc-textarea-to
+{
+  padding: 10px;
+  height: 10px;
+  width: 300px;
+  border-radius: 15px;
+  resize: none;
+  outline: none;
+  box-shadow: none;
+}
+.desc-textarea-from
+{
+  padding: 10px;
+  height: 10px;
+  width: 300px;
+  border-radius: 15px;
+  resize: none;
+  outline: none;
+  box-shadow: none;
+ 
+
+}
+
+.desc-textarea-subject
+{
+
+  padding: 10px;
+  height: 30px;
+  width: 500px;
+  border-radius: 19px;
+  resize: none;
+  outline: none;
+  box-shadow: none;
+ 
+
+}
+.desc-textarea-desc
+{
+  padding: 10px;
+  height: 30px;
+  width: 700px;
+  border-radius: 19px;
+  resize: none;
+  outline: none;
+  box-shadow: none;
+  margin-bottom: 8px ;
+ 
+
+}
+
+.atn-btn
+{
+  font-size: 14px;
+}
+
+.atn-cal
+{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  padding-top:10px;
+  padding-bottom: 10px;
+  border-radius:15px;
+}
+.c-card
+{
+  border-radius:15px;
+}
+
+
+.atn-from
+{
+  margin-top:4px;
+}
+
+.atn-subject
+{
+  margin-top:4px;
+}
+
+.atn-desc
+{
+  margin-top:4px;
+  margin-bottom: 10px;
+}
+
+.MuiCard-root {
+  padding: 0px;
+  margin: 20px 70px;
+  border-radius: 15px;
+}

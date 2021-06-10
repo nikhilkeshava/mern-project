@@ -1,0 +1,15 @@
+.c-card{
+    display: flex;
+    flex-direction: row;
+    background-color: #E1E5EB ;
+    min-width: 266px;
+    padding:5px 20px;
+    height: 36px;
+    font-size: 14px;
+}
+ .date{
+  background-color: #E1E5EB ;
+  border: none;
+  width: 88px;
+  cursor: pointer;
+}

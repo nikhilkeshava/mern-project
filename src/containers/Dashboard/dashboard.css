@@ -1,0 +1,75 @@
+.dash-wrap-inner {
+  width: auto;
+  height: auto;
+  margin: 30px 30px;
+  background-color: white;
+  border-radius: 15px;
+  padding: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.table {
+  width: 45%;
+}
+
+.graph {
+  width: 500px;
+  background: #f4f9f5;
+  border-radius: 15px;
+  padding: 20px;
+}
+.graph-month {
+  font-size: 12px;
+  font-weight: 700;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog {
+  width: 500px;
+  margin-top: 30px;
+  border-radius: 15px;
+  padding: 25px;
+  background-color: #f4f9f5;
+}
+
+.region-wrap {
+  background-color: white;
+  width: 200px;
+  height: 36px;
+  display: flex;
+  border-radius: 10px;
+}
+
+.dash-btn-row {
+  background-color: white !important;
+  font-size: 14px !important;
+  height: 34px !important;
+  width: fit-content !important;
+}
+
+.table .rt-tr-group {
+  background-color: #f4f9f5;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%),
+    0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+  padding: 2vh;
+}
+.ReactTable .rt-thead .rt-tr {
+  color: #000000;
+  border-color: #000;
+  border-radius: 1px;
+  background: rgb(255, 255, 255);
+  font-size: 18px;
+  border-style: ridge;
+}
+.ReactTable .rt-tbody .rt-tr-group:last-child {
+  /* border-style: none; */
+  border: 1px solid #000;
+  border-radius: 0 0 1px 1px;
+  border-style: ridge;
+}
